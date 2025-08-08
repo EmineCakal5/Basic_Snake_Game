@@ -11,11 +11,7 @@ Arayüz: Windows Forms (WinForms)
 Hedef Platform: .NET Framework (Windows)
 
 📦 Kurulum ve Çalıştırma
-Proje dizinini klonlayın:
-
-bash
-Kopyala
-Düzenle
+Proje dizinini klonlayın
 git clone https://github.com/kullaniciadi/snake-game.git
 Visual Studio 2022 üzerinden Snake.sln dosyasını açın.
 
